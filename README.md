@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ersoy Baki, and I'm a Computer Science and Engineering Student at TU/e in the Netherlands.</p>
+<p align="left">My name is Ersoy Baki, and I'm a Data Science and AI Student at TU/e in the Netherlands.</p>
 
 ###
 
